@@ -24,11 +24,11 @@
 
 # Zubereitung
 
- 1  Für die Nudelsuppe das Gemüse putzen, waschen, schneiden und die Kräuter schneiden.
+ 1.   Für die Nudelsuppe das Gemüse putzen, waschen, schneiden und die Kräuter schneiden.
 
- 2  Die Karotten in Stifte oder Scheiben schneiden. Im heißen Öl kurz anrösten, mit heißem Wasser aufgießen. Die Suppe mit Suppengewürz würzen und zugedeckt köcheln lassen (20 min).
+ 2.   Die Karotten in Stifte oder Scheiben schneiden. Im heißen Öl kurz anrösten, mit heißem Wasser aufgießen. Die Suppe mit Suppengewürz würzen und zugedeckt köcheln lassen (20 min).
 
-3 Die Teigwaren in kochendes Salzwasser geben, auf kleine Flamme köcheln lassen (5 min), abseihen und kurz vor dem Servieren in die Suppe geben.
+ 3.   Die Teigwaren in kochendes Salzwasser geben, auf kleine Flamme köcheln lassen (5 min), abseihen und kurz vor dem Servieren in die Suppe geben.
 
 Guten Appetit!!
 

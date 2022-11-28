@@ -33,5 +33,5 @@
       
     Guten Appetit!!
 
-![logo](./public/images/gefuellte-paprikaschoten-biber-dolmasi-rezept.jpg)
+![logo](./public/images/gef%C3%BClltepaprika.png)
 
