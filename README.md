@@ -2,7 +2,7 @@
 
 ## [Heimat Lieblingsgericht](./heimat-rezept.md)
 
-![logo](./public/images/gefuellte-paprikaschoten-biber-dolmasi-rezept.jpg)
+![logo](./public/images/gefülltepaprika.png)
 
 ## [Deutschland Lieblingsgericht](./deutschland-rezept.md)
 
